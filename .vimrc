@@ -1,5 +1,7 @@
 " current color scheme
-colo pablo
+" colo pablo
+colo dracula
+" colo moonscape
 
 " enable syntax highlighting
 syntax on
